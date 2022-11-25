@@ -12,6 +12,9 @@
     Eclipse Foundation. All other trademarks are the property of their respective owners.
 
 -->
+# ⚠️ Archive Notice
+
+As of October 24, 2023, we will no longer update or support this Helm chart.
 
 # Nexus Repository
 
